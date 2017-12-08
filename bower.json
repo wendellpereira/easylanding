@@ -1,0 +1,18 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "jquery": "~2.1.1",
+    "material-design-iconic-font": "^2.2.0",
+    "font-awesome": "~4.3.0",
+    "jquery-smooth-scroll": "~1.5.5",
+    "jquery.stellar": "~0.6.2",
+    "wow": "~1.0.3"
+  },
+  "devDependencies": {
+    "bootstrap-sass-official": "~3.3.0",
+    "bourbon": "~4.2.1",
+    "animate.css": "~3.2.3"
+  }
+}
